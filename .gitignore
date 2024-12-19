@@ -1,0 +1,94 @@
+# Archivos de Python generados
+*.pyc
+__pycache__/
+*.egg-info
+
+# Archivos de datos
+*.sqlite3
+*.db
+
+# Archivos de entorno
+.env
+.env.local
+.venv/
+venv/
+env/
+
+# Archivos de sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de compilación
+*.py[cod]
+*.so
+*.dylib
+*.exe
+
+# Archivos de compilación de Docker
+Dockerfile*
+.dockerignore
+
+# Logs
+*.log
+*.out
+
+# Archivos de configuración adicionales
+*.ini
+*.config
+*.json
+
+# Archivos temporales
+*~
+*.swp
+*.bak
+*.tmp
+
+# IDEs
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Directorio de archivos estáticos recolectados
+staticfiles/
+
+# Directorio de medios
+media/
+
+# Directorio de módulos de pip
+build/
+dist/
+develop-eggs/
+*.egg
+*.egg-info
+sdist/
+
+# Directorios de Django
+migrations/
+
+# Directorio de archivos de pruebas
+__pycache__
+
+# Archivos específicos de python
+*.pyd
+
+# Directorio de archivos de coverage
+.coverage
+htmlcov/
+
+# Directorio de archivos de reportes
+reports/
+
+# Directorio de archivos de caché
+__pycache__/
+
+# Archivos específicos de Django
+db.sqlite3
+db.sqlite3-journal
+
+# Otros
+.coverage
+*.py~
+*.csv
+*.xls
+*.xlsx
